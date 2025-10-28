@@ -1,7 +1,7 @@
 # gde-2025-fridge-project
 To jest nasz projekt lodówki społecznej.
 
-Pracujemy tutaj nad fajną aplikacją.
+Pracujemy tutaj nad fajną aplikacją. Robię coś z innego komputera, albo robi to moja koleżanka z zespołu.
 
 
 dsfasdf
