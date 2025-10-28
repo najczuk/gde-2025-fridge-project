@@ -1,1 +1,1 @@
-# robie zmiany w A (jako Adi)
+# nagłówek pliku A
