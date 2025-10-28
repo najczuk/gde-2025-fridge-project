@@ -1,5 +1,7 @@
 # gde-2025-fridge-project
-To jest nasz projekt lodówki społecznej
+To jest nasz projekt lodówki społecznej.
+
+Pracujemy tutaj nad fajną aplikacją.
 
 
 dsfasdf
@@ -9,7 +11,7 @@ fasdfasdf
 
 * asdfasdf
 * dfgsdfgs
-**to jest za grube**
+**to jest za grube**.
 
 ## header typu 2
 
