@@ -1,0 +1,1 @@
+# robie zmiany w C (jako Adi)

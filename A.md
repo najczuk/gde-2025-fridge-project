@@ -1,0 +1,1 @@
+# robie zmiany w A (jako Adi)
