@@ -1,0 +1,1 @@
+ten plik jest totalnie nie gotowy zeby sie nim podzielic ale boje sie ze mi spłonie komputer
